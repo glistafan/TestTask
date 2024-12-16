@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e825148ae390f248a79e283d7544e44, type: 3}
+  m_Name: LetterR
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -6342808464625005154, guid: d0ecf4ee1dd72e5479aacc1fd1481f23, type: 3}
+  value: R
+  degreeRotation: 0
