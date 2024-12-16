@@ -54,6 +54,8 @@ namespace Assets.Resources.Scripts.GameCreator
             var width = levelConfigurator.Width;
             var selectedFiguresProperties = levelConfigurator.SelectedFiguresPropertiesList;
 
+            foreach (var cell in cells) cell.DisableCell();
+
             for (var x = 0; x < width; x++)
             {
                 for (var y = 0; y < height; y++)
